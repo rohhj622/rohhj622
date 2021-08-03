@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 #Java #SpringFramework
-#Python #Django
-#MySQL #Oracle
-#
+#Python #Django #JavaScript
+#SQL #MySQL #Oracle 
+#ReactNative 
 
 
 
