@@ -1,5 +1,4 @@
-### 👿험악한 바이브
-
+### 울부짖는 노현진
 <!--
 **rohhj622/rohhj622** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,8 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 #Java #SpringFramework
-#Python #Django #JavaScript
-#SQL #MySQL #Oracle 
+#Python #Django #JavaScript #jQuery
+#SQL #MySQL #Oracle #ORM
 #ReactNative 
 
 
