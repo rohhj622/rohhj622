@@ -1,4 +1,4 @@
-### 울부짖는 노현진
+### 🌱 울부짖는 노현진 🌱
 <!--
 **rohhj622/rohhj622** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 #ReactNative #Node.js
 #RTSP #FFMPEG
 
-##### 2022년 목표 - 포도알 많이 만들기 (100개 이상)
-##### 2021년 목표 - 포도알 많이 만들기 (164개 완료)
+-  2022년 목표 포도알 많이 만들기 (100개 이상)
+-  2021년 목표 포도알 많이 만들기 (164개)
