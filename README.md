@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 #Python #Django #JavaScript #jQuery
 #SQL #MySQL #Oracle #ORM
 #ReactNative #Node.js
-#RTSP #FFMPEG
+#RTSP #FFMPEG #postgreSQL
 
 -  2022년 목표 포도알 많이 만들기 (100개 이상)
 -  2021년 목표 포도알 많이 만들기 (164개)
