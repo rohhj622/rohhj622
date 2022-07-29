@@ -12,12 +12,16 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 #Java #SpringFramework
 #Python #Django #JavaScript #jQuery
 #SQL #MySQL #Oracle #ORM
 #ReactNative #Node.js
 #RTSP #FFMPEG #postgreSQL
 
--  2022년 목표 포도알 많이 만들기 (100개 이상)
--  2021년 목표 포도알 많이 만들기 (164개) 🐰
+-->
+
+
+Try [Ownway](https://apps.apple.com/kr/app/ownway/id1621267794) !
+
+
