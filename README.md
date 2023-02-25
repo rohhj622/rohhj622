@@ -24,6 +24,6 @@ Here are some ideas to get you started:
 
 Try [Ownway](https://apps.apple.com/kr/app/ownway/id1621267794) !
 
-Introduce myself, [Intme](https://intme.world) !
+Welcome to, [New!Hyunjin](https://rohhj622.github.io/) !
 
 
