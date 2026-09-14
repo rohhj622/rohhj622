@@ -34,16 +34,11 @@ Epinet에서 데이터 파이프라인과 컨테이너 인프라를 만듭니다
 **50m 격자 위에 기록하는 위치기반 소셜 앱**<br>
 그 자리에 가야만 열리는 숨겨진 메시지.
 
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=FFFFFF)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=FFFFFF)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=000000)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=FFFFFF)
-
-![화면](https://img.shields.io/badge/38-화면_(route)-2F6B4F?style=for-the-badge&labelColor=161513)
-![DB 마이그레이션](https://img.shields.io/badge/86-DB_마이그레이션-2F6B4F?style=for-the-badge&labelColor=161513)
-![엣지 함수](https://img.shields.io/badge/7-엣지_함수-2F6B4F?style=for-the-badge&labelColor=161513)
-![보안 감사](https://img.shields.io/badge/3-보안_감사-2F6B4F?style=for-the-badge&labelColor=161513)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/urius-glance-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/urius-glance-light.svg">
+  <img alt="Urius 지표: 화면 38개, DB 마이그레이션 86개, 엣지 함수 7개, 보안 감사 3회" src="assets/urius-glance-light.svg" width="100%">
+</picture>
 
 기획부터 출시까지, 코드의 대부분은 제가 설계한 LLM 에이전트 팀이 작성했습니다.<br>
 어떻게 혼자서 이 규모를 감당했는지는 케이스 스터디에 정리했습니다.
