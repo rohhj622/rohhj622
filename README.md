@@ -10,7 +10,7 @@
 
 [![포트폴리오](https://img.shields.io/badge/포트폴리오-2F6B4F?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF)](https://rohhj622.github.io/)
 [![App Store의 Urius](https://img.shields.io/badge/App_Store의_Urius-2F6B4F?style=for-the-badge&logo=appstore&logoColor=FFFFFF)](https://apps.apple.com/us/app/urius/id6749177407)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-2F6B4F?style=for-the-badge)](https://www.linkedin.com/in/rohhyunjin622)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-2F6B4F?style=for-the-badge)](https://www.linkedin.com/in/hyunjinroh)
 [![Email](https://img.shields.io/badge/Email-2F6B4F?style=for-the-badge&logo=gmail&logoColor=FFFFFF)](mailto:rhj0622@gmail.com)
 
 </div>
