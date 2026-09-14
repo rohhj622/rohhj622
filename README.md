@@ -79,44 +79,11 @@ Django 기반 웹 서비스 개발<br>
 
 ## 🛠️ Stack
 
-**Language & Web**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=FFFFFF)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=FFFFFF)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=FFFFFF)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=FFFFFF)
-![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=FFFFFF)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-
-**Database & Data Engineering**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=FFFFFF)
-![TimescaleDB](https://img.shields.io/badge/TimescaleDB-FDB515?style=flat-square&logo=timescale&logoColor=000000)
-![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=flat-square&logo=clickhouse&logoColor=000000)
-![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=FFFFFF)
-![NiFi](https://img.shields.io/badge/NiFi-728E9B?style=flat-square&logo=apachenifi&logoColor=FFFFFF)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=000000)
-
-**ML & MLOps**
-
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=FFFFFF)
-![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=flat-square&logo=minio&logoColor=FFFFFF)
-
-**DevOps & Cloud**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=FFFFFF)
-![Keycloak](https://img.shields.io/badge/Keycloak-4D4D4D?style=flat-square&logo=keycloak&logoColor=FFFFFF)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square)
-![Route53](https://img.shields.io/badge/Route_53-8C4FFF?style=flat-square)
-![VPC](https://img.shields.io/badge/VPC-232F3E?style=flat-square)
-
-**Learning**
-
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=FFFFFF)
-![Debezium](https://img.shields.io/badge/Debezium-4000FF?style=flat-square)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=FFFFFF)
-![Harbor](https://img.shields.io/badge/Harbor-60B932?style=flat-square&logo=harbor&logoColor=FFFFFF)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/stack-light.svg">
+  <img alt="Stack. Language & web: Python, Django, JavaScript, TypeScript, jQuery, Node.js, React Native. Database & data engineering: PostgreSQL, TimescaleDB, ClickHouse, Airflow, NiFi, Supabase. ML & MLOps: MLflow, MinIO. DevOps & cloud: Docker, Keycloak, AWS, Route 53, VPC. Learning: Kafka, Debezium, Kubernetes, Harbor." src="assets/stack-light.svg" width="100%">
+</picture>
 
 <br>
 
