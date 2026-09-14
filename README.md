@@ -27,7 +27,7 @@ Epinet에서 데이터 파이프라인과 컨테이너 인프라를 만듭니다
 
 <div align="center">
 
-<img src="icon.png" width="88" alt="Urius 앱 아이콘">
+<img src="icon.png" width="96" alt="Urius 앱 아이콘">
 
 ### UriUs
 
